@@ -24,7 +24,7 @@ IDE:
 
 ## 3. 🔌 Para rodar os exercícios
 
-Para rodar os exercícios basta ter o interpretador Python instalado e executar o arquivo pela linha de comando utilizando o interpretador.
+Para rodar os exercícios basta ter o interpretador Python instalado e executar o arquivo "resolucao" de cadas pasta pela linha de comando utilizando o interpretador.
   
 ## 4. 👨‍💻 Autor
 Criado por Daniel Justo  
